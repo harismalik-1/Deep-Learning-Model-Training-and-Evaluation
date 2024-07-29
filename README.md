@@ -1,5 +1,4 @@
 **# Deep-Learning-Model-Training-and-Evaluation**
-# Deep Learning Model Training and Evaluation
 
 This project demonstrates the training and evaluation of various deep learning models using Python and PyTorch. The script can handle different neural network architectures and includes options for data preprocessing and dimensionality reduction using PCA.
 
